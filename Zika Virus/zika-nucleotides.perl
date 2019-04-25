@@ -3,7 +3,7 @@ use strict;
 
 # DESCRIPTION : This program reads a fasta file downloaded from the NCBI Web page, 
 # stores the sequence without white spaces, and then prints out the number of 
-nucleotides in the Zika genome.
+# nucleotides in the Zika genome.
 
 # Create file to save Zika sequence
 my $filename = "sequence.fasta";
